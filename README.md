@@ -30,7 +30,7 @@ Beiträge sind immer willkommen! Bitte lesen Sie die [CONTRIBUTING.md](CONTRIBUT
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz - siehe die [LICENSE.md](LICENSE.md) Datei für Details.
+Dieses Projekt steht unter der GNU-Lizenz - siehe die [LICENSE.md](LICENSE.md) Datei für Details.
 
 ---
 
